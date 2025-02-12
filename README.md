@@ -10,9 +10,9 @@
 </div>
 
 <!--Intro start-->
-- 🧑‍🎓 I’m an Undergraduate at University of Moratuwa
+- 🧑‍🎓 I'm an undergraduate of Faculty of Information Technology, University of Moratuwa. Currently, I'm following BSc. hon's in Information Technology & Management.
 
-- 🔭 I’m currently working on **React, PHP, MySQL**
+- 🔭 I’m currently working on **React, PHP, MySQL,C,Java**
   
 - 📫 Feel free to reach me out **jeewangeethanga@gmail.com**
 <br><br>
