@@ -1,20 +1,22 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Jeewan Gethanga</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Jeewan Geethanga</h1></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🧑‍🎓 I'm an undergraduate of Faculty of Information Technology, University of Moratuwa. Currently, I'm following BSc. hon's in Information Technology & Management.
+- 🧑‍🎓 I'm an undergraduate at the **Faculty of Information Technology, University of Moratuwa**, following **BSc (Hons) in Information Technology & Management**.
 
-- 🔭 I’m currently working on **React, PHP, MySQL,C,Java**
-  
-- 📫 Feel free to reach me out **jeewangeethanga@gmail.com**
+- 🔭 I’m currently working with  
+  **React, NestJS, Flutter, Laravel, PostgreSQL, Prisma, Docker & Node.js**
+
+- 💡 I enjoy building **full-stack applications**, clean UIs, and scalable backend systems.
+
+- 📫 Reach me at: **jeewangeethanga@gmail.com**
 <br><br>
 <!--Intro end-->
 
@@ -49,28 +51,28 @@
     <summary><h2 style="display: inline-block">Technologies</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,express,figma,firebase,github,html,java,js,mongodb,mysql,nodejs,react,tailwind,ts,aws,gcp,azure,react,vue,flutter,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,ts,nodejs,express,nestjs,laravel,postgres,mysql,mongodb,git,github,docker,linux,figma,tailwind,aws,vscode&perline=14" />
   </a>
 </p>
 
 --------------------------------------------------------
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/jeewan-geethanga-2a0b002a8/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/jeewan-geethanga-2a0b002a8/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
 </p>
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
