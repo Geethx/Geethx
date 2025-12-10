@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,reactnative,html,css,js,ts,nodejs,express,nestjs,laravel,java,python,dart,c,php,postgres,mysql,mongodb,aws,kubernetes,docker,linux,git,github,prisma,figma,postman,firebase,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,ts,nodejs,express,nestjs,laravel,java,python,dart,c,php,postgres,mysql,mongodb,aws,kubernetes,docker,linux,git,github,prisma,figma,postman,firebase,tailwind,vscode&perline=14" />
   </a>
 </p>
 
