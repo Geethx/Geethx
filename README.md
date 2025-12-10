@@ -1,70 +1,114 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
+<!--h1 -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jeewan Geethanga</h1></summary>
   </ul>
 </div>
 
-<!--Intro start-->
-- 🧑‍🎓 I'm an undergraduate at the **Faculty of Information Technology, University of Moratuwa**, following **BSc (Hons) in Information Technology & Management**.
+<!--Intro -->
+- 🧑‍🎓 Undergraduate at the **Faculty of IT, University of Moratuwa**, following **BSc (Hons) in IT & Management**  
+- 🔭 Currently working with **React, NestJS, Flutter, Laravel, Prisma, PostgreSQL, Docker, Node.js**  
+- 💡 Passionate about **full-stack development, cloud systems, mobile apps & clean UI development**  
+- 📫 Contact me: **jeewangeethanga@gmail.com**
 
-- 🔭 I’m currently working with  
-  **React, NestJS, Flutter, Laravel, PostgreSQL, Prisma, Docker & Node.js**
+<br>
 
-- 💡 I enjoy building **full-stack applications**, clean UIs, and scalable backend systems.
-
-- 📫 Reach me at: **jeewangeethanga@gmail.com**
-<br><br>
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
+<!-- GitHub Stats -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Geethx&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethx&theme=dark&hide_border=false" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geethx&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethx&theme=dark&hide_border=false" />
+
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Geethx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Geethx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
+</p>
 
-</p>        
-<!--- stats (end) -->
+---
 
-
-<!--h1 without bottom border-->
+<!-- Skills Section -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies</h2></summary>
+    <summary><h2 style="display: inline-block">💻 Technical Skills</h2></summary>
   </ul>
 </div>
 
-<!--tech stack icons-->
+---
+
+## **Frontend Development**
+- React / React Native  
+- HTML, CSS, JavaScript  
+- Flutter  
+- Tailwind CSS  
+
+## **Backend Development**
+- NestJS  
+- Laravel  
+- Node.js / Express.js  
+- Spring Boot  
+
+## **Programming Languages**
+- JavaScript, TypeScript  
+- Java  
+- Python  
+- Dart  
+- C  
+- PHP  
+
+## **Databases**
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+## **Cloud & Infrastructure**
+- AWS  
+- Kubernetes  
+- Docker  
+- Linux  
+
+## **Version Control**
+- Git  
+- GitHub  
+
+## **Tools & Other Skills**
+- Prisma ORM  
+- Figma  
+- Postman / API Testing  
+- Firebase  
+- VS Code  
+
+---
+
+<!-- Icons -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🛠️ Tech Stack Icons</h2></summary>
+  </ul>
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,ts,nodejs,express,nestjs,laravel,postgres,mysql,mongodb,git,github,docker,linux,figma,tailwind,aws,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,html,css,js,ts,nodejs,express,nestjs,laravel,java,python,dart,c,php,postgres,mysql,mongodb,aws,kubernetes,docker,linux,git,github,prisma,figma,postman,firebase,tailwind,vscode&perline=14" />
   </a>
 </p>
 
---------------------------------------------------------
+---
 
-<!-- Connect with me -->
+<!-- Connect -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect</h2></summary>
+    <summary><h2 style="display: inline-block">🌐 Connect With Me</h2></summary>
   </ul>
 </div>
 
@@ -74,5 +118,5 @@
 </a>
 </p>
 
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
