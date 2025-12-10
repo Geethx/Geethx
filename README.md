@@ -10,7 +10,7 @@
 
 <!--Intro -->
 - 🧑‍🎓 Undergraduate at the **Faculty of IT, University of Moratuwa**, following **BSc (Hons) in IT & Management**  
-- 🔭 Currently working with **React, NestJS, Flutter, Laravel, Prisma, PostgreSQL, Docker, Node.js**  
+- 🔭 Currently working with **React, React Native, Flutter, SpringBoot, Node.js, NestJS, Laravel, MySQL, MongoDB, PostgreSQL, Docker, AWS, Linux, Kubernetes**  
 - 💡 Passionate about **full-stack development, cloud systems, mobile apps & clean UI development**  
 - 📫 Contact me: **jeewangeethanga@gmail.com**
 
